@@ -1,0 +1,33 @@
+.med{
+    background-image: url(https://i.pinimg.com/736x/54/c5/b8/54c5b80c9667a56462e137afceeaafdb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 700px;
+}
+
+.head2{
+    font-size: x-large;
+    color: rgb(0, 255, 21);
+    padding-left: 450px;
+    
+}
+.home{
+    display: flex;
+    gap: 50px;
+    margin-left: 250px;
+    font-size: x-large;
+
+}
+.head3{
+    font-size: xx-large;
+    color: rgb(0, 132, 248);
+    padding-left: 250px;
+    
+}
+.prabu{
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px 0px;
+}
+a:hover{
+    color: green;
+}
